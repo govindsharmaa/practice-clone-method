@@ -5,6 +5,6 @@ Clone  se  GitHub  practice
 govind sharma (apna collage)
 <br>
 my new git repo
-<br.
-Author - govind sharma
+<br>
+Author - govind sharma .
 
